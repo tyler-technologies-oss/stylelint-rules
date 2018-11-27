@@ -1,0 +1,17 @@
+{
+  "name": "@tylertech/stylelint-rules",
+  "version": "0.1.1",
+  "description": "Common stylelint rules for Tyler.",
+  "main": "index.js",
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "Kieran Nichols <kieran.nichols@tylertech.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "http://packages.tylertech.com/npm/npm_TCW/"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.8.1"
+  }
+}
