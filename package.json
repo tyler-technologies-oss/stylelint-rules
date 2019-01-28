@@ -6,6 +6,9 @@
   "keywords": [
     "stylelint"
   ],
+  "scripts": {
+    "changelog": "standard-changelog -i CHANGELOG.md -k package.json"
+  },
   "author": "Kieran Nichols <kieran.nichols@tylertech.com>",
   "license": "MIT",
   "publishConfig": {
@@ -13,5 +16,8 @@
   },
   "peerDependencies": {
     "stylelint": "^9.8.1"
+  },
+  "devDependencies": {
+    "standard-changelog": "^2.0.6"
   }
 }
