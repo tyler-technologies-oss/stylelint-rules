@@ -12,7 +12,7 @@
   "author": "Kieran Nichols <kieran.nichols@tylertech.com>",
   "license": "MIT",
   "publishConfig": {
-    "registry": "http://packages.tylertech.com/npm/npm_TCW/"
+    "registry": "http://yarpvproget/npm/npm_Tyler_Core/"
   },
   "peerDependencies": {
     "stylelint": "^9.8.1"
