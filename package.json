@@ -11,13 +11,10 @@
   },
   "author": "Kieran Nichols <kieran.nichols@tylertech.com>",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "http://yarpvproget/npm/npm_Tyler_Core/"
-  },
   "peerDependencies": {
-    "stylelint": "^9.8.1"
+    "stylelint": "^13.2.1"
   },
   "devDependencies": {
-    "standard-changelog": "^2.0.6"
+    "standard-changelog": "^2.0.21"
   }
 }
