@@ -7,14 +7,17 @@
     "stylelint"
   ],
   "scripts": {
-    "changelog": "standard-changelog -i CHANGELOG.md -k package.json"
+    "changelog": "auto changelog",
+    "release": "auto shipit"
   },
   "author": "Kieran Nichols <kieran.nichols@tylertech.com>",
   "license": "MIT",
+  "devDependencies": {
+    "@auto-canary/npm": "^10.33.0--canary.2115.25151.0",
+    "@auto-it/conventional-commits": "^10.32.3",
+    "auto": "^10.32.3"
+  },
   "peerDependencies": {
     "stylelint": "^13.2.1"
-  },
-  "devDependencies": {
-    "standard-changelog": "^2.0.21"
   }
 }
