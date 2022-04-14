@@ -1,8 +1,0 @@
-plugins:
-  - - npm
-    - setRcToken: false
-  - conventional-commits
-  - released
-author: GitHub Actions <github-actions[bot]@users.noreply.github.com>
-canary:
-  target: comment

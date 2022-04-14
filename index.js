@@ -1,6 +1,7 @@
 'use-strict';
 
 module.exports = {
+  "extends": "stylelint-config-standard-scss",
   "rules": {
     "color-hex-case": "lower",
     "color-no-invalid-hex": true,
@@ -21,7 +22,7 @@ module.exports = {
 
     "unit-case": "lower",
     "unit-no-unknown": true,
-    "unit-whitelist": ["px", "%", "fr", "deg", "s", "ms", "em", "rem", "vh", "vw", "vmin"],
+    "unit-allowed-list": ["px", "%", "fr", "deg", "s", "ms", "em", "rem", "vh", "vw", "vmin"],
 
     "value-list-comma-space-after": "always-single-line",
     "value-list-comma-space-before": "never",

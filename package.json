@@ -1,6 +1,6 @@
 {
   "name": "@tylertech/stylelint-rules",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Common stylelint rules for Tyler.",
   "main": "index.js",
   "keywords": [
@@ -10,14 +10,20 @@
     "changelog": "auto changelog",
     "release": "auto shipit"
   },
-  "author": "Kieran Nichols <kieran.nichols@tylertech.com>",
-  "license": "MIT",
+  "author": "Tyler Technologies, Inc.",
+  "license": "Apache-2.0",
   "devDependencies": {
-    "@auto-canary/npm": "^10.33.0--canary.2115.25151.0",
-    "@auto-it/conventional-commits": "^10.32.3",
-    "auto": "^10.32.3"
+    "@auto-it/conventional-commits": "^10.36.5",
+    "@auto-it/exec": "^10.36.5",
+    "@auto-it/first-time-contributor": "^10.36.5",
+    "@auto-it/npm": "^10.36.5",
+    "@auto-it/pr-body-labels": "^10.36.5",
+    "auto": "^10.36.5"
   },
   "peerDependencies": {
-    "stylelint": "^13.2.1"
+    "stylelint": "^14.6.1"
+  },
+  "dependencies": {
+    "stylelint-config-standard-scss": "^3.0.0"
   }
 }
