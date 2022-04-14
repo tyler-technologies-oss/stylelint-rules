@@ -26,6 +26,7 @@
     "stylelint": "^14.0.0"
   },
   "dependencies": {
-    "stylelint-config-standard-scss": "^3.0.0"
+    "postcss-scss": "^4.0.3",
+    "stylelint-scss": "^4.2.0"
   }
 }
