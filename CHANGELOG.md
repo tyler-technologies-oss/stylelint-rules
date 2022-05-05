@@ -8,7 +8,7 @@
 
 - chore: automation workflows [#1](https://github.com/tyler-technologies/stylelint-rules/pull/1) ([@DRiFTy17](https://github.com/DRiFTy17))
 
-#### ⚠️ Pushed to `master`
+#### ⚠️ Pushed to `main`
 
 - chore: adding CODEOWNERS ([@DRiFTy17](https://github.com/DRiFTy17))
 - chore: artifactory ([@DRiFTy17](https://github.com/DRiFTy17))
