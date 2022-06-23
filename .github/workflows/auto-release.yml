@@ -18,7 +18,7 @@ jobs:
       CHECKOUT_WITH_APP: true
     secrets:
       GITHUB_APP_ID: ${{ secrets.FORGE_AUTOBOT_ID }}
-      GITHUB_APP_KEY: ${{ secrets.FORGE_AUTOBOT_SECRET }}
+      GITHUB_APP_KEY: ${{ secrets.FORGE_AUTOBOT_CLIENT_ID }}
       CHECKOUT_TOKEN: ${{ secrets.FORGE_GITHUB_ACCESS_TOKEN }}
       NPM_TOKEN: ${{ secrets.FORGE_NPM_TOKEN }}
  
