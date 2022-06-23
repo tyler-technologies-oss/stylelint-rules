@@ -13,6 +13,7 @@ jobs:
     name: Release
     uses: tyler-technologies/forge-automation-shared/.github/workflows/wf-build-release.yml@v0.11.0
     with:
+      PRODUCTION_RELEASE: true
       BUILD_ENABLED: false
     secrets:
       NPM_TOKEN: ${{ secrets.FORGE_NPM_TOKEN }}
