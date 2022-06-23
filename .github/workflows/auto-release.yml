@@ -16,6 +16,6 @@ jobs:
       PRODUCTION_RELEASE: true
       BUILD_ENABLED: false
     secrets:
-      CHECKOUT_TOKEN: ${{ secrets.CHECKOUT_TOKEN }}
+      CHECKOUT_TOKEN: ${{ secrets.FORGE_GITHUB_ACCESS_TOKEN }}
       NPM_TOKEN: ${{ secrets.FORGE_NPM_TOKEN }}
  
