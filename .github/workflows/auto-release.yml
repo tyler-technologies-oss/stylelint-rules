@@ -11,11 +11,11 @@ concurrency: auto-release-${{ github.ref }}
 jobs:
   release:
     name: Release
-    uses: tyler-technologies/forge-automation-shared/.github/workflows/wf-build-release.yml@v0.14.0
+    uses: tyler-technologies/forge-automation-shared/.github/workflows/wf-build-release.yml@v0.15.0
     with:
       PRODUCTION_RELEASE: true
       BUILD_ENABLED: false
     secrets:
-      AUTO_TOKEN: ${{ secrets.AUTO_RELEASE }}
+      REPO_TOKEN: ${{ secrets.AUTO_RELEASE }}
       NPM_TOKEN: ${{ secrets.FORGE_NPM_TOKEN }}
  
