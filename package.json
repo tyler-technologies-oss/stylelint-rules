@@ -1,12 +1,12 @@
 {
   "name": "@tylertech/stylelint-rules",
   "version": "4.0.0",
-  "description": "Common stylelint rules for Tyler.",
+  "description": "Common stylelint rules for Tyler Technologies.",
   "author": "Tyler Technologies, Inc.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tyler-technologies/stylelint-rules.git"
+    "url": "https://github.com/tyler-technologies-oss/stylelint-rules.git"
   },
   "main": "index.js",
   "keywords": [
