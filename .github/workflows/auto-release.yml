@@ -15,7 +15,6 @@ jobs:
     with:
       PRODUCTION_RELEASE: true
       BUILD_ENABLED: false
-      CHECKOUT_WITH_APP: true
     secrets:
       GITHUB_APP_ID: ${{ secrets.FORGE_AUTOBOT_ID }}
       GITHUB_APP_KEY: ${{ secrets.FORGE_AUTOBOT_SECRET }}
