@@ -7,6 +7,8 @@ on:
   workflow_dispatch:
 
 concurrency: auto-release-${{ github.ref }}
+permissions:
+  contents: write
 
 jobs:
   release:
