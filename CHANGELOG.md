@@ -1,3 +1,15 @@
+# v4.1.0 (Thu Jun 23 2022)
+
+#### 🚀 Enhancement
+
+- feat: update release workflow permissions ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### Authors: 1
+
+- Kieran Nichols ([@DRiFTy17](https://github.com/DRiFTy17))
+
+---
+
 # v3.0.0 (Wed May 04 2022)
 
 #### 💥 Breaking Change
