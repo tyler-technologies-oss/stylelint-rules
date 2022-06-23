@@ -60,4 +60,4 @@ module.exports = {
     'selector-type-case': 'lower',
     'selector-max-id': null
   }
-}
+};
