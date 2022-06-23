@@ -9,6 +9,7 @@ on:
 concurrency: auto-release-${{ github.ref }}
 permissions:
   contents: write
+  issues: read
 
 jobs:
   release:
