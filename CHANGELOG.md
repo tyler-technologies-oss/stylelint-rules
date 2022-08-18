@@ -1,3 +1,23 @@
+# v4.3.3 (Thu Jun 23 2022)
+
+#### 🐛 Bug Fix
+
+- fix: remove `CHECKOUT_WITH_APP` input ([@DRiFTy17](https://github.com/DRiFTy17))
+- fix: use updated release wf ([@DRiFTy17](https://github.com/DRiFTy17))
+- fix: use updated secret ([@DRiFTy17](https://github.com/DRiFTy17))
+- fix: use client id ([@DRiFTy17](https://github.com/DRiFTy17))
+- fix: use app for checkout ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/tyler-technologies-oss/stylelint-rules ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### Authors: 1
+
+- Kieran Nichols ([@DRiFTy17](https://github.com/DRiFTy17))
+
+---
+
 # v4.3.2 (Thu Jun 23 2022)
 
 #### 🐛 Bug Fix
