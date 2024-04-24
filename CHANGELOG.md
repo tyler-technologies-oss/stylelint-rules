@@ -1,3 +1,19 @@
+# v5.0.0 (Wed Apr 24 2024)
+
+#### 💥 Breaking Change
+
+- feat: update `stylelint` to v16 and support node 20 [#5](https://github.com/tyler-technologies-oss/stylelint-rules/pull/5) ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/tyler-technologies-oss/stylelint-rules ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### Authors: 1
+
+- Kieran Nichols ([@DRiFTy17](https://github.com/DRiFTy17))
+
+---
+
 # v4.3.3 (Thu Jun 23 2022)
 
 #### 🐛 Bug Fix
