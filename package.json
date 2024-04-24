@@ -8,24 +8,31 @@
     "type": "git",
     "url": "https://github.com/tyler-technologies-oss/stylelint-rules.git"
   },
-  "main": "index.js",
+  "exports": "./index.js",
   "keywords": [
     "stylelint"
   ],
+  "engines": {
+    "node": ">=18.12.0"
+  },
   "scripts": {
-    "changelog": "auto changelog",
     "release": "auto shipit"
   },
   "devDependencies": {
-    "@auto-it/npm": "^10.36.5",
-    "@auto-it/conventional-commits": "^10.36.5",
-    "auto": "^10.36.5"
+    "@auto-it/conventional-commits": "^11.1.6",
+    "@auto-it/npm": "^11.1.6",
+    "auto": "^11.1.6",
+    "postcss-scss": "^4.0.9",
+    "stylelint": "^16.4.0",
+    "stylelint-config-standard-scss": "^13.1.0",
+    "stylelint-scss": "^6.2.1"
   },
   "peerDependencies": {
-    "stylelint": "^14.0.0"
+    "stylelint": "^16.4.0"
   },
   "dependencies": {
-    "postcss-scss": "^4.0.3",
-    "stylelint-scss": "^4.2.0"
+    "postcss-scss": "^4.0.9",
+    "stylelint-scss": "^6.2.1",
+    "stylelint-config-standard-scss": "^13.1.0"
   }
 }

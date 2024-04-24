@@ -1,13 +1,13 @@
-## Tyler Stylelint Rules
+## Stylelint Rules
 
-This repository contains default rules to provide to `stylelint` when compiling Sass files.
+This repository contains default `stylelint` rules for Tyler Technologies, Inc. repositories.
 
 ## Usage
 
-Install the latest package:
+Install:
 
 ```bash
-$ npm install -D $tylertech/stylelint-rules
+$ npm install -D @tylertech/stylelint-rules
 ```
 
 Create a new `.stylelintrc` file in the root of your project and provide the default configuration:
@@ -18,4 +18,4 @@ Create a new `.stylelintrc` file in the root of your project and provide the def
 }
 ```
 
-> Rules can be overridden as needed by specifying the rule and value as you would usually for stylelint.
+> Rules can be overridden as needed by specifying the rule and value as you would usually for [stylelint](https://stylelint.io/).
