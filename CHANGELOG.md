@@ -1,3 +1,15 @@
+# v5.0.1 (Tue Apr 30 2024)
+
+#### 🐛 Bug Fix
+
+- feat: use esm [#6](https://github.com/tyler-technologies-oss/stylelint-rules/pull/6) ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### Authors: 1
+
+- Kieran Nichols ([@DRiFTy17](https://github.com/DRiFTy17))
+
+---
+
 # v5.0.0 (Wed Apr 24 2024)
 
 #### 💥 Breaking Change
