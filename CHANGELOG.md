@@ -1,3 +1,15 @@
+# v5.1.0 (Tue Apr 30 2024)
+
+#### 🚀 Enhancement
+
+- feat: ignore `color-function-notation` rule [#7](https://github.com/tyler-technologies-oss/stylelint-rules/pull/7) ([@DRiFTy17](https://github.com/DRiFTy17))
+
+#### Authors: 1
+
+- Kieran Nichols ([@DRiFTy17](https://github.com/DRiFTy17))
+
+---
+
 # v5.0.1 (Tue Apr 30 2024)
 
 #### 🐛 Bug Fix
