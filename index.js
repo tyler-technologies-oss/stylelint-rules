@@ -10,6 +10,7 @@ export default {
     "at-rule-empty-line-before": null,
     "at-rule-no-unknown": null,
 
+    "color-function-notation": null,
     "color-hex-length": null,
     "color-no-invalid-hex": true,
     "comment-no-empty": null,
