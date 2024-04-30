@@ -1,5 +1,5 @@
 {
-  "extends": "./index.mjs",
+  "extends": "./index.js",
   "rules": {
     "scss/at-mixin-argumentless-call-parentheses": null,
     "scss/at-rule-conditional-no-parentheses": null,
