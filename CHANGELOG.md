@@ -1,3 +1,15 @@
+# v5.1.1 (Tue Jan 28 2025)
+
+#### 🐛 Bug Fix
+
+- fix: allow leading underscore in custom property names [#8](https://github.com/tyler-technologies-oss/stylelint-rules/pull/8) ([@samrichardsontylertech](https://github.com/samrichardsontylertech))
+
+#### Authors: 1
+
+- Sam Richardson ([@samrichardsontylertech](https://github.com/samrichardsontylertech))
+
+---
+
 # v5.1.0 (Tue Apr 30 2024)
 
 #### 🚀 Enhancement
