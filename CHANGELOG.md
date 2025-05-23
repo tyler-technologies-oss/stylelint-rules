@@ -1,3 +1,18 @@
+# v5.1.2 (Fri May 23 2025)
+
+#### 🐛 Bug Fix
+
+- chore: update dependencies [#15](https://github.com/tyler-technologies-oss/stylelint-rules/pull/15) ([@DRiFTy17](https://github.com/DRiFTy17))
+- Dependency reviewer [#9](https://github.com/tyler-technologies-oss/stylelint-rules/pull/9) ([@JoeNunnelley](https://github.com/JoeNunnelley))
+- Security Code Scanning - configuration files [#12](https://github.com/tyler-technologies-oss/stylelint-rules/pull/12) ([@JoeNunnelley](https://github.com/JoeNunnelley))
+
+#### Authors: 2
+
+- Joe Nunnelley ([@JoeNunnelley](https://github.com/JoeNunnelley))
+- Kieran Nichols ([@DRiFTy17](https://github.com/DRiFTy17))
+
+---
+
 # v5.1.1 (Tue Jan 28 2025)
 
 #### 🐛 Bug Fix
