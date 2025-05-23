@@ -1,6 +1,6 @@
 {
   "name": "@tylertech/stylelint-rules",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "Common stylelint rules for Tyler Technologies.",
   "author": "Tyler Technologies, Inc.",
   "license": "Apache-2.0",
